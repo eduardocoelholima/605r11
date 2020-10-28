@@ -1,4 +1,4 @@
-# CSCI-605 Recitation - week 10
+# CSCI-605 Recitation - week 11
 
 Here you will find a couple of code snippets as well
 as some notes used in RIT course CSCI605's recitation
