@@ -6,55 +6,63 @@ sessions.
 
 ---
 
-### HW8.1: Lottery Number Distribution 
-- https://cs.rit.edu/~hpb/Lectures/2201/605/605-491.html
-- NumberCounter.java
-- ny10.csv
-- Questions?
-
-### HW8.2: Painting numbers
-- https://cs.rit.edu/~hpb/Lectures/2201/605/605-492.html
-- Visual.java
-- pi1000000.txt
-- Questions?
-
-### HW8.3: Object Serialization
-- https://cs.rit.edu/~hpb/Lectures/2201/605/605-493.html
-- Password.java
-- PasswordRead.java
-- PasswordWrite.java
-- Questions?
-
 ### HW9.1: Multi-threaded Delayed Palindrome numbers 
 - https://cs.rit.edu/~hpb/Lectures/2201/605/605-495.html
+- Solution files are in the url above
 - Questions?
 
 ### HW9.2: Multi-threaded Lottery Number Counter
 - https://cs.rit.edu/~hpb/Lectures/2201/605/605-496.html
+- Solution files are in the url above
 - Questions?
 
 ### HW9.3: Ordering a Synchronized List
 - https://cs.rit.edu/~hpb/Lectures/2201/605/605-497.html
+- Solution files are in the url above
 - Questions?
 
-### Threads 1: Possible scheduling scenarios
-- WhichOutput.java
-- How to force specific output orders:
-  00 / 01 / 10(possible?) / 11 / 12 / 21 (possible?) / 22
-- Is 20 possible?
-- How to do the same using join()?
+### Synchronized block 1
+- Thread_5.java
+- Will any thread other than the main one run in parallel?
+- How can we make second go before 1st?
 
-### Threads 2: Possible scheduling scenarios
-- WhichOrder.java
-- Can we force it to be executed in the order the arguments were passed? How
- to do it with sleep methods?
-- What if we use join methods, can we force it to be sequential?
-- How to make it in descending order with sleep?
-- What about with join?
+### Synchronized block 2
+- Thread_5b.java
+- Will any thread run in parallel? Why?
+
+### Wait-Notify 1: Provider-Consumer Protocol [1]
+- {Drop, Consumer, Producer, ProducerConsumerExample}.java
+- Go through code (drawings might help)
+- How many messages can be stored by a Drop instance at any time?
+- Which class uses the wait/notify mechanism? What for?
+- Which code blocks/signatures use the synchronized keyword?
+- How is the flag 'empty' being used?
+
+### Wait-Notify 2: Sender-Receiver Synchronization [2]
+- {Data, Sender, Receiver, NetworkDriver}.java
+- Go through code (drawings might help)
+- How related is the send/receive protocol to the producer/consumer one?
+- What are the differences? 
+
+### HW10.1: Synchronized blocks: Concurrent Code Flow
+- https://cs.rit.edu/~hpb/Lectures/2201/605/605-500.html
+- Questions?
+
+### HW10.2: Synchronized blocks: Concurrent Code Flow
+- https://cs.rit.edu/~hpb/Lectures/2201/605/605-501.html
+- Questions?
+
+### HW10.3: Making a thread-safe storage
+- https://cs.rit.edu/~hpb/Lectures/2201/605/605-502.html
+- Questions?
 
 
 
+[1] Code from https://docs.oracle.com/javase/tutorial/essential/concurrency
+/guardmeth.html
 
+[2] Code from https://github.com/eugenp/tutorials/tree/master/core-java
+-modules/core-java-concurrency-basic-2/src/main/java/com/baeldung/concurrent/waitandnotify
 
 ---
 
@@ -65,4 +73,4 @@ either to the discussion forum or will email everyone so
 every student can benefit from the answers provided.
 
 Cheers,
-eduardo.lima at mail.rit.edu# 605r09
+eduardo.lima at mail.rit.edu
