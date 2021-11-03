@@ -6,23 +6,23 @@ sessions.
 
 ---
 
-### HW10.1: Multi-threaded Delayed Palindrome numbers 
+### HW10.1: Counting numbers
 https://www.cs.rit.edu/~hpb/Lectures/2211/605/605-477.html
 
-### HW10.2: Multi-threaded Lottery Number Counter
+### HW10.2: Reading files
 https://www.cs.rit.edu/~hpb/Lectures/2211/605/605-478.html
 
-### HW10.3: Ordering a Synchronized List
+### HW10.3: Password modification detection
 https://www.cs.rit.edu/~hpb/Lectures/2211/605/605-479.html
 
 
-### HW11.1: Synchronized blocks: Concurrent Code Flow
+### HW11.1: Parallel infinite series
 https://www.cs.rit.edu/~hpb/Lectures/2211/605/605-481.html
 
-### HW11.2: Synchronized blocks: Concurrent Code Flow
+### HW11.2: Parallelized computation with shared and local variables
 https://www.cs.rit.edu/~hpb/Lectures/2211/605/605-482.html
 
-### HW11.3: Making a thread-safe storage
+### HW11.3: Marble pickup game with synchronization
 https://www.cs.rit.edu/~hpb/Lectures/2211/605/605-483.html
 
 ### Synchronized block 1
