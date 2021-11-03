@@ -6,20 +6,24 @@ sessions.
 
 ---
 
-### HW9.1: Multi-threaded Delayed Palindrome numbers 
-- https://cs.rit.edu/~hpb/Lectures/2201/605/605-495.html
-- Solution files are in the url above
-- Questions?
+### HW10.1: Multi-threaded Delayed Palindrome numbers 
+https://www.cs.rit.edu/~hpb/Lectures/2211/605/605-477.html
 
-### HW9.2: Multi-threaded Lottery Number Counter
-- https://cs.rit.edu/~hpb/Lectures/2201/605/605-496.html
-- Solution files are in the url above
-- Questions?
+### HW10.2: Multi-threaded Lottery Number Counter
+https://www.cs.rit.edu/~hpb/Lectures/2211/605/605-478.html
 
-### HW9.3: Ordering a Synchronized List
-- https://cs.rit.edu/~hpb/Lectures/2201/605/605-497.html
-- Solution files are in the url above
-- Questions?
+### HW10.3: Ordering a Synchronized List
+https://www.cs.rit.edu/~hpb/Lectures/2211/605/605-479.html
+
+
+### HW11.1: Synchronized blocks: Concurrent Code Flow
+https://www.cs.rit.edu/~hpb/Lectures/2211/605/605-481.html
+
+### HW11.2: Synchronized blocks: Concurrent Code Flow
+https://www.cs.rit.edu/~hpb/Lectures/2211/605/605-482.html
+
+### HW11.3: Making a thread-safe storage
+https://www.cs.rit.edu/~hpb/Lectures/2211/605/605-483.html
 
 ### Synchronized block 1
 - Thread_5.java
@@ -43,18 +47,6 @@ sessions.
 - Go through code (drawings might help)
 - How related is the send/receive protocol to the producer/consumer one?
 - What are the differences? 
-
-### HW10.1: Synchronized blocks: Concurrent Code Flow
-- https://cs.rit.edu/~hpb/Lectures/2201/605/605-500.html
-- Questions?
-
-### HW10.2: Synchronized blocks: Concurrent Code Flow
-- https://cs.rit.edu/~hpb/Lectures/2201/605/605-501.html
-- Questions?
-
-### HW10.3: Making a thread-safe storage
-- https://cs.rit.edu/~hpb/Lectures/2201/605/605-502.html
-- Questions?
 
 
 
